@@ -68,24 +68,27 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
 <p align="center">
   <strong>Languages</strong>
   <br />
-  
+  <br />
   <img src="https://skillicons.dev/icons?i=py,java,go,c,cpp,js,html,mysql,bash&amp;theme=dark" alt="Languages" />
+  <br />
   <br />
 </p>
 
 <p align="center">
   <strong>AI / Data</strong>
   <br />
-  
+  <br />
   <img src="https://skillicons.dev/icons?i=py,sklearn&amp;theme=dark" alt="AI and data tools" />
+  <br />
   <br />
 </p>
 
 <p align="center">
   <strong>Infrastructure & Tools</strong>
   <br />
-  
+  <br />
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash&amp;theme=dark" alt="Infrastructure and tools" />
+  <br />
   <br />
 </p>
 
