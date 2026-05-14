@@ -78,7 +78,6 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
   <br />
   <img src="https://skillicons.dev/icons?i=py,sklearn&amp;theme=dark" alt="AI and data tools" />
   <br />
-  <sub>pandas | NumPy | scikit-learn | Plotly | Streamlit | OpenAI API | Hugging Face</sub>
 </p>
 
 <p align="center">
@@ -86,7 +85,6 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash&amp;theme=dark" alt="Infrastructure and tools" />
   <br />
-  <sub>Git | GitHub | REST APIs | Linux | Bash | DigitalOcean | Slurm / HPC workflows</sub>
 </p>
 
 ## GitHub Stats
