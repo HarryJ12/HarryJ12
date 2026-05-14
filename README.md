@@ -1,15 +1,15 @@
-<h1 align="center">Harry Joshi</h1>
+<h1 align="left">Harry Joshi</h1>
 
-<p align="center">
-  <strong>AI systems engineer and researcher building scalable infrastructure, evaluation frameworks, and reliable AI systems.</strong>
-</p>
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/harryjoshi1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
-  <a href="mailto:harrybjoshi@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" title="Email" /></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=FFFFFF&amp;vCenter=true&amp;width=760&amp;height=44&amp;lines=Honors+Computer+Science+student+at+UMass+Lowell;AI+Engineering+Intern+at+MITRE;AI+systems+researcher+at+UMass+Lowell;Healthcare+LLM+reliability+and+evaluation;Building+RAG+pipelines+and+AI+infrastructure"
+        alt="Rotating profile roles"
+      />
+    </td>
+  </tr>
+</table>
 
 ## About Me 🧠
 
@@ -89,7 +89,6 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" title="Supabase" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" title="Vercel" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" title="GitHub" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" title="Streamlit" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" title="Cloudflare" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&amp;logo=digitalocean&amp;logoColor=white" alt="DigitalOcean" title="DigitalOcean" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=111111" alt="Linux" title="Linux" />
@@ -110,6 +109,13 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarryJ12&amp;theme=github_dark"
     alt="Harry Joshi top languages"
   />
+</p>
+
+## Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/harryjoshi1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="mailto:harrybjoshi@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" title="Email" /></a>
 </p>
 
 ## Profile View Counter
