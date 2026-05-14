@@ -1,6 +1,6 @@
 <img src="./assets/name.svg" alt="Harry Joshi" />
 
-<h2 style="margin-top: -10px;">About Me 🚀</h2>
+<h2 style="margin-top: -30px;">About Me 🚀</h2>
 
 <div style="margin-top: -6px;"></div>
 
