@@ -1,34 +1,27 @@
-<h1 align="left">Harry Joshi</h1>
+<p align="left">
+  <img src="./assets/name.svg" alt="Harry Joshi" />
+</p>
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=FFFFFF&amp;vCenter=true&amp;width=760&amp;height=44&amp;lines=Honors+Computer+Science+student+at+UMass+Lowell;AI+Engineering+Intern+at+MITRE;AI+systems+researcher+at+UMass+Lowell;Healthcare+LLM+reliability+and+evaluation;Building+RAG+pipelines+and+AI+infrastructure"
-        alt="Rotating profile roles"
-      />
-    </td>
-  </tr>
-</table>
+## About Me 🚀
 
-## About Me 🧠
+I'm a Computer Science student at the University of Massachusetts Lowell focused on backend, ML, and full-stack systems, with a growing emphasis on AI infrastructure and evaluation. My current work centers on healthcare LLM reliability, multi-agent evaluation, RAG-ready preprocessing, and practical systems that make AI outputs easier to measure, trust, and deploy.
 
-I'm a Computer Science student at the  University of Massachusetts Lowell focused on backend, ML, and full-stack systems, with a growing emphasis on AI infrastructure and evaluation. My current work centers on healthcare LLM reliability, multi-agent evaluation, RAG-ready preprocessing, and practical systems that make AI outputs easier to measure, trust, and deploy.
+- 🤖 AI systems
+- 🧪 LLM evaluation
+- 🩺 Healthcare AI
+- 🔎 RAG pipelines
+- 🧱 Full-stack software engineering
+- ⚙️ Infrastructure & scalable workflows
 
-- AI systems
-- LLM evaluation
-- Healthcare AI
-- RAG pipelines
-- Full-stack software engineering
-- Infrastructure & scalable workflows
-
-## Experience 🛠️
+## Experience 💼
 
 ### AI Engineering Intern @ MITRE
 
-- Incoming Summer 2026
+*May 2026 - Present*
 
 ### Multi-Agent LLM Researcher @ UMass Lowell BioNLP Laboratory
+
+*February 2026 - Present*
 
 - Evaluate medical LLM reliability across Med-HALT and MedHallu benchmarks.
 - Build Python/Bash pipelines for single-agent and multi-agent evaluation.
@@ -36,21 +29,27 @@ I'm a Computer Science student at the  University of Massachusetts Lowell focuse
 
 ### Applied AI Engineer @ Kennedy College of Sciences, UMass Lowell
 
+*December 2025 - Present*
+
 - Build a Copilot-powered chemistry tutoring system for course-aligned support.
 - Create OpenAI API preprocessing pipelines for RAG-ready department materials.
 - Add prompt guardrails and chunking rules to reduce leakage and hallucinations.
 
-### Co-Founder & Director of Technology @ Artificial Intelligence Multidisciplinary Society UMass Lowell
+### Co-Founder & Director of Technology @ Artificial Intelligence Multidisciplinary Society (AIM), UMass Lowell
+
+*April 2026 - Present*
 
 - Lead technical direction for interdisciplinary AI projects and student research.
 - Build practical workflows, demos, and materials for applied AI learning.
 
-### Teaching Instructor @ CodeWiz Westford
+### Teaching Instructor @ CodeWiz
+
+*April 2024 - June 2024*
 
 - Teach Python and Java fundamentals, debugging, and project-based programming.
 - Mentor students in computational thinking and readable code.
 
-## Tech Stack ⚙️
+## Tech Stack 🧰
 
 <p align="center">
   <strong>Languages</strong>
@@ -60,6 +59,8 @@ I'm a Computer Science student at the  University of Massachusetts Lowell focuse
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" title="Go" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" title="SQL" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" title="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=111111" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" title="TypeScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" title="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=111111" alt="C" title="C" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" title="Bash" />
@@ -96,7 +97,7 @@ I'm a Computer Science student at the  University of Massachusetts Lowell focuse
   <br />
 </p>
 
-## GitHub Stats 📊
+## GitHub Stats 📈
 
 <p align="center">
   <img
@@ -104,6 +105,7 @@ I'm a Computer Science student at the  University of Massachusetts Lowell focuse
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarryJ12&amp;theme=github_dark"
     alt="Harry Joshi GitHub stats"
   />
+  &nbsp;&nbsp;&nbsp;
   <img
     height="170"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarryJ12&amp;theme=github_dark"
@@ -111,14 +113,14 @@ I'm a Computer Science student at the  University of Massachusetts Lowell focuse
   />
 </p>
 
-## Connect with me
+## Connect with me 🤝
 
 <p align="center">
   <a href="https://linkedin.com/in/harryjoshi1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
   <a href="mailto:harrybjoshi@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" title="Email" /></a>
 </p>
 
-## Profile View Counter
+## Profile Views 👀
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarryJ12&amp;style=flat-square&amp;color=1F6FEB&amp;label=Profile+views" alt="Profile views" />
