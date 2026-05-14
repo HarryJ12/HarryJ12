@@ -17,6 +17,10 @@
   </a>
   <a href="mailto:harrybjoshi@gmail.com">
     <img src="https://img.shields.io/badge/Email-harrybjoshi%40gmail.com-1F6FEB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/HarryJ12">
+    <img src="https://img.shields.io/badge/GitHub-HarryJ12-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ## About Me
@@ -89,13 +93,13 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=HarryJ12&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9&amp;bg_color=0D1117"
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarryJ12&amp;theme=github_dark"
     alt="Harry Joshi GitHub stats"
   />
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryJ12&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;bg_color=0D1117"
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarryJ12&amp;theme=github_dark"
     alt="Harry Joshi top languages"
   />
 </p>
