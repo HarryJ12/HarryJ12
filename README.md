@@ -6,12 +6,12 @@
 
 I'm a Computer Science student at the University of Massachusetts Lowell focused on backend, ML, and full-stack systems, with a growing emphasis on AI infrastructure and evaluation. My current work centers on healthcare LLM reliability, multi-agent evaluation, RAG-ready preprocessing, and practical systems that make AI outputs easier to measure, trust, and deploy.
 
-- 🤖 AI systems
-- 🧪 LLM evaluation
+- 🤖 AI and ML systems
+- 🧠 Intrigued by ML reliability, evaluation, and deployment
+- 🏗️ Building ML-backed infrastructure and RAG workflows
 - 🩺 Healthcare AI
-- 🔎 RAG pipelines
-- 🧱 Full-stack software engineering
-- ⚙️ Infrastructure & scalable workflows
+- 🔎 Multi-agent LLM research
+- ⚙️ Scalable software engineering workflows
 
 ## Experience 💼
 
@@ -29,17 +29,17 @@ I'm a Computer Science student at the University of Massachusetts Lowell focused
 
 ### Applied AI Engineer @ Kennedy College of Sciences, UMass Lowell
 
-*December 2025 - Present*
+*December 2025 - May 2026*
 
-- Build a Copilot-powered chemistry tutoring system for course-aligned support.
-- Create OpenAI API preprocessing pipelines for RAG-ready department materials.
-- Add prompt guardrails and chunking rules to reduce leakage and hallucinations.
+- Built a Copilot-powered chemistry tutoring system for course-aligned support.
+- Created OpenAI API preprocessing pipelines for RAG-ready department materials.
+- Added prompt guardrails and chunking rules to reduce leakage and hallucinations.
 
-### Co-Founder & Director of Technology @ Artificial Intelligence Multidisciplinary Society, UMass Lowell
+### Co-Founder & Director of Technology @ Artificial Intelligence Multidisciplinary Society (AIM), UMass Lowell
 
 *April 2026 - Present*
 
-- Leading technical direction for interdisciplinary AI projects, student research and digital infrasructure
+- Lead technical direction for interdisciplinary AI projects, student research, and digital infrastructure.
 - Build practical workflows, demos, and materials for applied AI learning.
 
 ### Teaching Instructor @ CodeWiz
