@@ -1,6 +1,6 @@
 <div align="center"><img src="./assets/name.svg" alt="Harry Joshi" /></div>
 
-<h2>About Me 🚀</h2>
+<h3>About Me 🚀</h3>
 I'm a Computer Science student at the University of Massachusetts Lowell focused on backend, ML, and full-stack systems, with a growing emphasis on AI infrastructure and evaluation. My current work centers on healthcare LLM reliability, multi-agent evaluation, RAG-ready preprocessing, and practical systems that make AI outputs easier to measure, trust, and deploy.
 
 - 🤖 AI and ML systems
