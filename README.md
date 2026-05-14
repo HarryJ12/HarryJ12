@@ -70,7 +70,6 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
   <br />
   <img src="https://skillicons.dev/icons?i=py,java,go,c,cpp,js,html,mysql,bash&amp;theme=dark" alt="Languages" />
   <br />
-  <sub>Python | Java | Go | C | C++ | JavaScript | HTML | SQL | Bash</sub>
 </p>
 
 <p align="center">
