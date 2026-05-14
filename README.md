@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <strong>AI systems engineer and researcher building real infrastructure and evaluation systems.</strong>
+  <strong>AI systems engineer and researcher focused on building scalable infrastructure, evaluation frameworks, and reliable intelligent systems.</strong>
 </p>
 
 ---
