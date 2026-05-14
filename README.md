@@ -63,11 +63,12 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
 - Mentor students in computational thinking, readable code, and practical algorithmic reasoning.
 - Adapt instruction across experience levels while keeping lessons hands-on and technically grounded.
 
-## Tech Arsenal
+## Tech Stack
 
 <p align="center">
   <strong>Languages</strong>
   <br />
+  
   <img src="https://skillicons.dev/icons?i=py,java,go,c,cpp,js,html,mysql,bash&amp;theme=dark" alt="Languages" />
   <br />
 </p>
@@ -75,6 +76,7 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
 <p align="center">
   <strong>AI / Data</strong>
   <br />
+  
   <img src="https://skillicons.dev/icons?i=py,sklearn&amp;theme=dark" alt="AI and data tools" />
   <br />
 </p>
@@ -82,6 +84,7 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
 <p align="center">
   <strong>Infrastructure & Tools</strong>
   <br />
+  
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash&amp;theme=dark" alt="Infrastructure and tools" />
   <br />
 </p>
