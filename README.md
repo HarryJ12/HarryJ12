@@ -19,7 +19,7 @@ I'm a Computer Science student at the University of Massachusetts Lowell focused
 
 *May 2026 - Present*
 
-### Multi-Agent LLM Researcher @ UMass Lowell BioNLP Laboratory
+### Multi-Agent LLM Researcher @ University of Massachusetts BioNLP Laboratory
 
 *February 2026 - Present*
 
@@ -27,7 +27,7 @@ I'm a Computer Science student at the University of Massachusetts Lowell focused
 - Building Python/Bash pipelines for single-agent and multi-agent evaluation.
 - Running Slurm/HPC workflows across open-source and closed-source models.
 
-### Applied AI Engineer @ Kennedy College of Sciences, UMass Lowell
+### Applied AI Engineer @ Kennedy College of Sciences, University of Massachusetts Lowell
 
 *December 2025 - May 2026*
 
@@ -35,14 +35,14 @@ I'm a Computer Science student at the University of Massachusetts Lowell focused
 - Created OpenAI API preprocessing pipelines for RAG-ready department materials.
 - Added prompt guardrails and chunking rules to reduce leakage and hallucinations.
 
-### Co-Founder & Director of Technology @ Artificial Intelligence Multidisciplinary Society, UMass Lowell
+### Co-Founder/Director of Tech. @ Artificial Intelligence Multidisciplinary Society (AIM) University of Massachusetts Lowell 
 
 *April 2026 - Present*
 
 - Leading technical direction for interdisciplinary AI projects, student research, and digital infrastructure.
 - Building practical workflows, demos, and materials for applied AI learning.
 
-### Teaching Instructor @ CodeWiz
+### Coding Instructor @ CodeWiz
 
 *April 2024 - June 2024*
 
@@ -105,7 +105,7 @@ I'm a Computer Science student at the University of Massachusetts Lowell focused
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarryJ12&amp;theme=github_dark"
     alt="Harry Joshi GitHub stats"
   />
-  &emsp;&emsp;
+  &emsp;
   <img
     height="170"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarryJ12&amp;theme=github_dark"
