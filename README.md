@@ -2,7 +2,7 @@
 
 <h2 style="margin-top: -30px;">About Me 🚀</h2>
 
-<div style="margin-top: -6px;"></div>
+<div style="margin-top: -30px;"></div>
 
 I'm a Computer Science student at the University of Massachusetts Lowell focused on backend, ML, and full-stack systems, with a growing emphasis on AI infrastructure and evaluation. My current work centers on healthcare LLM reliability, multi-agent evaluation, RAG-ready preprocessing, and practical systems that make AI outputs easier to measure, trust, and deploy.
 
