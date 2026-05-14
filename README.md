@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="./assets/name.svg" alt="Harry Joshi" />
 </p>
 
@@ -35,7 +35,7 @@ I'm a Computer Science student at the University of Massachusetts Lowell focused
 - Created OpenAI API preprocessing pipelines for RAG-ready department materials.
 - Added prompt guardrails and chunking rules to reduce leakage and hallucinations.
 
-### Co-Founder/Director of Tech. @ Artificial Intelligence Multidisciplinary Society (AIM) University of Massachusetts Lowell 
+### Co-Founder/Director of Tech. @ Artificial Intelligence Multidisciplinary Society, University of Massachusetts Lowell
 
 *April 2026 - Present*
 
@@ -105,6 +105,7 @@ I'm a Computer Science student at the University of Massachusetts Lowell focused
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarryJ12&amp;theme=github_dark"
     alt="Harry Joshi GitHub stats"
   />
+  &emsp;&emsp;&emsp;&emsp;
   <img
     height="170"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarryJ12&amp;theme=github_dark"
