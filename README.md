@@ -37,20 +37,20 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
 - Analyze hallucination rate, task accuracy, and model behavior across domain-specific, general, open-source, and closed-source models.
 - Build reproducible Python and Bash evaluation pipelines with Hugging Face Transformers and Slurm-based HPC workflows.
 
-### Applied AI Engineer @ Kennedy College of Sciences
+### Applied AI Engineer @ Kennedy College of Sciences, UMass Lowell
 
 - Build a Copilot-powered chemistry tutoring system to support independent learning with course-aligned explanations.
 - Develop OpenAI API preprocessing workflows to structure, normalize, and chunk departmental materials for RAG ingestion.
 - Engineer deterministic content filtering and chunking pipelines to improve retrieval precision and reduce answer leakage.
 - Design prompt guardrails and standardized explanation formats to keep generated answers aligned with course standards.
 
-### Co-Founder & Director of Technology @ AIM
+### Co-Founder & Director of Technology @ Artificial Intelligence Multidisciplinary Society (AIM) UMass Lowell
 
 - Lead technical direction for interdisciplinary AI initiatives spanning applied ML, AI literacy, and project-based learning.
 - Translate broad research and education goals into practical workflows, demos, and maintainable technical materials.
 - Coordinate technical planning across students and collaborators working on AI-focused projects and events.
 
-### Teaching Instructor @ CodeWiz
+### Teaching Instructor @ CodeWiz Westford
 
 - Teach Python fundamentals, problem decomposition, debugging, and project-based programming.
 - Mentor students in computational thinking, readable code, and practical algorithmic reasoning.
