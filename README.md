@@ -17,10 +17,6 @@
   </a>
   <a href="mailto:harrybjoshi@gmail.com">
     <img src="https://img.shields.io/badge/Email-harrybjoshi%40gmail.com-1F6FEB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/HarryJ12">
-    <img src="https://img.shields.io/badge/GitHub-HarryJ12-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ## About Me
