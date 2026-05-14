@@ -35,11 +35,11 @@ I'm a Computer Science student at the University of Massachusetts Lowell focused
 - Create OpenAI API preprocessing pipelines for RAG-ready department materials.
 - Add prompt guardrails and chunking rules to reduce leakage and hallucinations.
 
-### Co-Founder & Director of Technology @ Artificial Intelligence Multidisciplinary Society (AIM), UMass Lowell
+### Co-Founder & Director of Technology @ Artificial Intelligence Multidisciplinary Society, UMass Lowell
 
 *April 2026 - Present*
 
-- Lead technical direction for interdisciplinary AI projects and student research.
+- Leading technical direction for interdisciplinary AI projects, student research and digital infrasructure
 - Build practical workflows, demos, and materials for applied AI learning.
 
 ### Teaching Instructor @ CodeWiz
