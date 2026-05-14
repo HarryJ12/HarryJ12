@@ -1,9 +1,4 @@
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;size=48&amp;duration=2600&amp;pause=100000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=900&amp;height=80&amp;lines=Harry+Joshi"
-    alt="Harry Joshi"
-  />
-</h1>
+<h1 align="center">Harry Joshi</h1>
 
 <p align="center">
   <strong>AI systems engineer and researcher building scalable infrastructure, evaluation frameworks, and reliable AI systems.</strong>
@@ -12,11 +7,11 @@
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/harryjoshi1"><img src="https://img.shields.io/badge/LinkedIn-harryjoshi1-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:harrybjoshi@gmail.com"><img src="https://img.shields.io/badge/Email-harrybjoshi%40gmail.com-1F6FEB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/harryjoshi1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="mailto:harrybjoshi@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" title="Email" /></a>
 </p>
 
-## About Me
+## About Me 🧠
 
 I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-stack systems, with a growing emphasis on AI infrastructure and evaluation. My current work centers on healthcare LLM reliability, multi-agent evaluation, RAG-ready preprocessing, and practical systems that make AI outputs easier to measure, trust, and deploy.
 
@@ -27,65 +22,82 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
 - Full-stack engineering
 - Infrastructure & scalable workflows
 
-## Experience
+## Experience 🛠️
 
-### Incoming AI Engineer Intern @ MITRE
+### AI Engineering Intern @ MITRE
+
+- Summer 2026.
 
 ### Multi-Agent LLM Researcher @ UMass Lowell BioNLP Laboratory
 
-- Evaluate single-agent and multi-agent LLM reliability across medical QA and summarization tasks using Med-HALT and MedHallu.
-- Analyze hallucination rate, task accuracy, and model behavior across domain-specific, general, open-source, and closed-source models.
-- Build reproducible Python and Bash evaluation pipelines with Hugging Face Transformers and Slurm-based HPC workflows.
+- Evaluate medical LLM reliability across Med-HALT and MedHallu benchmarks.
+- Build Python/Bash pipelines for single-agent and multi-agent evaluation.
+- Run Slurm/HPC workflows across open-source and closed-source models.
 
 ### Applied AI Engineer @ Kennedy College of Sciences, UMass Lowell
 
-- Build a Copilot-powered chemistry tutoring system to support independent learning with course-aligned explanations.
-- Develop OpenAI API preprocessing workflows to structure, normalize, and chunk departmental materials for RAG ingestion.
-- Engineer deterministic content filtering and chunking pipelines to improve retrieval precision and reduce answer leakage.
-- Design prompt guardrails and standardized explanation formats to keep generated answers aligned with course standards.
+- Build a Copilot-powered chemistry tutoring system for course-aligned support.
+- Create OpenAI API preprocessing pipelines for RAG-ready department materials.
+- Add prompt guardrails and chunking rules to reduce leakage and hallucinations.
 
 ### Co-Founder & Director of Technology @ Artificial Intelligence Multidisciplinary Society (AIM) UMass Lowell
 
-- Lead technical direction for interdisciplinary AI initiatives spanning applied ML, AI literacy, and project-based learning.
-- Translate broad research and education goals into practical workflows, demos, and maintainable technical materials.
-- Coordinate technical planning across students and collaborators working on AI-focused projects and events.
+- Lead technical direction for interdisciplinary AI projects and student research.
+- Build practical workflows, demos, and materials for applied AI learning.
 
 ### Teaching Instructor @ CodeWiz Westford
 
-- Teach Python fundamentals, problem decomposition, debugging, and project-based programming.
-- Mentor students in computational thinking, readable code, and practical algorithmic reasoning.
-- Adapt instruction across experience levels while keeping lessons hands-on and technically grounded.
+- Teach Python fundamentals, debugging, and project-based programming.
+- Mentor students in computational thinking and readable code.
 
-## Tech Stack
+## Tech Stack ⚙️
 
 <p align="center">
   <strong>Languages</strong>
   <br />
   <br />
-  <img src="https://skillicons.dev/icons?i=py,java,go,c,cpp,js,html,mysql,bash&amp;theme=dark" alt="Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" title="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" title="Go" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" title="SQL" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" title="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" title="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=111111" alt="C" title="C" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" title="Bash" />
   <br />
   <br />
 </p>
 
 <p align="center">
-  <strong>AI / Data</strong>
+  <strong>AI and ML</strong>
   <br />
   <br />
-  <img src="https://skillicons.dev/icons?i=py,sklearn&amp;theme=dark" alt="AI and data tools" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="pandas" title="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" title="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" title="scikit-learn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="Plotly" title="Plotly" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" title="Streamlit" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=111111" alt="Hugging Face" title="Hugging Face" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" title="PyTorch" />
   <br />
   <br />
 </p>
 
 <p align="center">
-  <strong>Infrastructure & Tools</strong>
+  <strong>Tooling and Infrastructure</strong>
   <br />
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash&amp;theme=dark" alt="Infrastructure and tools" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" title="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" title="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" title="GitHub" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" title="Streamlit" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" title="Cloudflare" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&amp;logo=digitalocean&amp;logoColor=white" alt="DigitalOcean" title="DigitalOcean" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=111111" alt="Linux" title="Linux" />
   <br />
   <br />
 </p>
 
-## GitHub Stats
+## GitHub Stats 📊
 
 <p align="center">
   <img
