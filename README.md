@@ -105,7 +105,7 @@ I'm a Computer Science student at the University of Massachusetts Lowell focused
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarryJ12&amp;theme=github_dark"
     alt="Harry Joshi GitHub stats"
   />
-  &emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;
   <img
     height="170"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarryJ12&amp;theme=github_dark"
