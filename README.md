@@ -13,20 +13,20 @@
 
 ## About Me 🧠
 
-I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-stack systems, with a growing emphasis on AI infrastructure and evaluation. My current work centers on healthcare LLM reliability, multi-agent evaluation, RAG-ready preprocessing, and practical systems that make AI outputs easier to measure, trust, and deploy.
+I'm a Computer Science student at the  University of Massachusetts Lowell focused on backend, ML, and full-stack systems, with a growing emphasis on AI infrastructure and evaluation. My current work centers on healthcare LLM reliability, multi-agent evaluation, RAG-ready preprocessing, and practical systems that make AI outputs easier to measure, trust, and deploy.
 
 - AI systems
 - LLM evaluation
 - Healthcare AI
 - RAG pipelines
-- Full-stack engineering
+- Full-stack software engineering
 - Infrastructure & scalable workflows
 
 ## Experience 🛠️
 
 ### AI Engineering Intern @ MITRE
 
-- Summer 2026.
+- Incoming Summer 2026
 
 ### Multi-Agent LLM Researcher @ UMass Lowell BioNLP Laboratory
 
@@ -40,14 +40,14 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
 - Create OpenAI API preprocessing pipelines for RAG-ready department materials.
 - Add prompt guardrails and chunking rules to reduce leakage and hallucinations.
 
-### Co-Founder & Director of Technology @ Artificial Intelligence Multidisciplinary Society (AIM) UMass Lowell
+### Co-Founder & Director of Technology @ Artificial Intelligence Multidisciplinary Society UMass Lowell
 
 - Lead technical direction for interdisciplinary AI projects and student research.
 - Build practical workflows, demos, and materials for applied AI learning.
 
 ### Teaching Instructor @ CodeWiz Westford
 
-- Teach Python fundamentals, debugging, and project-based programming.
+- Teach Python and Java fundamentals, debugging, and project-based programming.
 - Mentor students in computational thinking and readable code.
 
 ## Tech Stack ⚙️
