@@ -7,11 +7,11 @@
 I'm a Computer Science student at the University of Massachusetts Lowell focused on backend, ML, and full-stack systems, with a growing emphasis on AI infrastructure and evaluation. My current work centers on healthcare LLM reliability, multi-agent evaluation, RAG-ready preprocessing, and practical systems that make AI outputs easier to measure, trust, and deploy.
 
 - 🤖 AI and ML systems
-- 🧠 Intrigued by ML reliability, evaluation, and deployment
-- 🏗️ Building ML-backed infrastructure and RAG workflows
+- 🧪 LLM evaluation
 - 🩺 Healthcare AI
-- 🔎 Multi-agent LLM research
-- ⚙️ Scalable software engineering workflows
+- 🔎 RAG pipelines
+- 🧱 Full-stack software engineering
+- ⚙️ Infrastructure & scalable workflows
 
 ## Experience 💼
 
@@ -23,9 +23,9 @@ I'm a Computer Science student at the University of Massachusetts Lowell focused
 
 *February 2026 - Present*
 
-- Evaluate medical LLM reliability across Med-HALT and MedHallu benchmarks.
-- Build Python/Bash pipelines for single-agent and multi-agent evaluation.
-- Run Slurm/HPC workflows across open-source and closed-source models.
+- Evaluating medical LLM reliability across Med-HALT and MedHallu benchmarks.
+- Building Python/Bash pipelines for single-agent and multi-agent evaluation.
+- Running Slurm/HPC workflows across open-source and closed-source models.
 
 ### Applied AI Engineer @ Kennedy College of Sciences, UMass Lowell
 
@@ -35,19 +35,19 @@ I'm a Computer Science student at the University of Massachusetts Lowell focused
 - Created OpenAI API preprocessing pipelines for RAG-ready department materials.
 - Added prompt guardrails and chunking rules to reduce leakage and hallucinations.
 
-### Co-Founder & Director of Technology @ Artificial Intelligence Multidisciplinary Society (AIM), UMass Lowell
+### Co-Founder & Director of Technology @ Artificial Intelligence Multidisciplinary Society, UMass Lowell
 
 *April 2026 - Present*
 
-- Lead technical direction for interdisciplinary AI projects, student research, and digital infrastructure.
-- Build practical workflows, demos, and materials for applied AI learning.
+- Leading technical direction for interdisciplinary AI projects, student research, and digital infrastructure.
+- Building practical workflows, demos, and materials for applied AI learning.
 
 ### Teaching Instructor @ CodeWiz
 
 *April 2024 - June 2024*
 
-- Teach Python and Java fundamentals, debugging, and project-based programming.
-- Mentor students in computational thinking and readable code.
+- Taught Python and Java fundamentals, debugging, and project-based programming.
+- Mentored students in computational thinking and readable code.
 
 ## Tech Stack 🧰
 
