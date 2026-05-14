@@ -1,7 +1,7 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=48&duration=2600&pause=100000&color=58A6FF&center=true&vCenter=true&repeat=false&width=900&height=80&lines=Hari+Joshi"
-    alt="Hari Joshi"
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;size=48&amp;duration=2600&amp;pause=100000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=900&amp;height=80&amp;lines=Harry+Joshi"
+    alt="Harry Joshi"
   />
 </h1>
 
@@ -13,13 +13,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/harryjoshi1">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-harryjoshi1-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:harrybjoshi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-harrybjoshi%40gmail.com-1F6FEB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/HarryJ12">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-HarryJ12-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -68,7 +68,7 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
 <p align="center">
   <strong>Languages</strong>
   <br />
-  <img src="https://skillicons.dev/icons?i=py,java,go,c,cpp,js,html,mysql,bash&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,java,go,c,cpp,js,html,mysql,bash&amp;theme=dark" alt="Languages" />
   <br />
   <sub>Python | Java | Go | C | C++ | JavaScript | HTML | SQL | Bash</sub>
 </p>
@@ -76,7 +76,7 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
 <p align="center">
   <strong>AI / Data</strong>
   <br />
-  <img src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" alt="AI and data tools" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn&amp;theme=dark" alt="AI and data tools" />
   <br />
   <sub>pandas | NumPy | scikit-learn | Plotly | Streamlit | OpenAI API | Hugging Face</sub>
 </p>
@@ -84,7 +84,7 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
 <p align="center">
   <strong>Infrastructure & Tools</strong>
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash&theme=dark" alt="Infrastructure and tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash&amp;theme=dark" alt="Infrastructure and tools" />
   <br />
   <sub>Git | GitHub | REST APIs | Linux | Bash | DigitalOcean | Slurm / HPC workflows</sub>
 </p>
@@ -94,18 +94,18 @@ I'm a Computer Science student at UMass Lowell focused on backend, ML, and full-
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=HarryJ12&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"
-    alt="Hari Joshi GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=HarryJ12&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9&amp;bg_color=0D1117"
+    alt="Harry Joshi GitHub stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryJ12&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"
-    alt="Hari Joshi top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryJ12&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;bg_color=0D1117"
+    alt="Harry Joshi top languages"
   />
 </p>
 
 ## Profile View Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarryJ12&style=flat-square&color=1F6FEB&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HarryJ12&amp;style=flat-square&amp;color=1F6FEB&amp;label=Profile+views" alt="Profile views" />
 </p>
