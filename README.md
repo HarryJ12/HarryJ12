@@ -2,7 +2,7 @@
 
 <h2 style="margin-top: -100px;">About Me 🚀</h2>
 
-I'm a Computer Science + Data Science student at the University of Massachusetts Lowell experienced in building and deploying end-to-end software across web, data, backend, and ML systems, using C/C++, Python, and JavaScript. 
+Computer Science & Data Science student at the University of Massachusetts Lowell experienced in building and deploying end-to-end software across web, data, backend, and ML systems, using C/C++, Python, and JavaScript. 
 
 I have a growing interest in AI infrastructure and tooling. My current work is centered around healthcare LLM reliability, multi-agent evaluation, RAG-ready preprocessing,and practical AI systems built to make models more useful, reliable, and deployable in real-world settings.
 
