@@ -2,7 +2,9 @@
 
 <h2 style="margin-top: -100px;">About Me 🚀</h2>
 
-I'm a Computer Science student at the University of Massachusetts Lowell focused on backend, ML, and full-stack systems, with a growing emphasis on AI infrastructure and evaluation. My current work centers on healthcare LLM reliability, multi-agent evaluation, RAG-ready preprocessing, and practical systems that make AI outputs easier to measure, trust, and deploy.
+I'm a Computer Science student at the University of Massachusetts Lowell experienced in building and deploying end-to-end software across web, data, backend, and ML systems, using C/C++, Python, and JavaScript. 
+
+I have a growing intrest in AI infrastructure and tooling. My current work is centered around healthcare LLM reliability, multi-agent evaluation, RAG-ready preprocessing, and practical systems that make AI outputs easier to measure, trust, and deploy.
 
 - 🩺 Healthcare AI
 - 🔎 RAG pipelines
