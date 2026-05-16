@@ -118,7 +118,9 @@ I have a growing interest in AI infrastructure and tooling. My current work is c
   <a href="mailto:harrybjoshi@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" title="Email" /></a>
 </p>
 
-## Profile Views 👀
+## Check out my projects below! ⬇️
+
+## Visitors 👀
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarryJ12&amp;style=flat-square&amp;color=1F6FEB&amp;label=Profile+views" alt="Profile views" />
