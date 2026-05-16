@@ -8,8 +8,6 @@ My interests include Healthcare AI, machine learning, full-stack software develo
 
 My current research focuses on evaluating LLMs in the healthcare domain through multi-agent systems, alongside building retrieval-augmented AI workflows and tooling for academic applications.
 
-I have a growing interest in AI infrastructure and tooling. My current work is centered around healthcare LLM reliability, multi-agent evaluation, RAG-ready preprocessing,and practical AI systems built to make models more useful, reliable, and deployable in real-world settings.
-
 Check out my projects below ⬇️
 
 ## Experience 💼
