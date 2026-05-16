@@ -12,6 +12,8 @@ I have a growing interest in AI infrastructure and tooling. My current work is c
 - 🧱 Full-stack software engineering
 - ⚙️ Infrastructure & scalable workflows
 
+Check out my projects below! ⬇️
+
 ## Experience 💼
 
 ### AI Engineering Intern @ MITRE
@@ -117,8 +119,6 @@ I have a growing interest in AI infrastructure and tooling. My current work is c
   <a href="https://linkedin.com/in/harryjoshi1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
   <a href="mailto:harrybjoshi@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" title="Email" /></a>
 </p>
-
-## Check out my projects below! ⬇️
 
 ## Visitors 👀
 
