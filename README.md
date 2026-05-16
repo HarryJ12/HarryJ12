@@ -24,6 +24,13 @@ Check out my projects below ⬇️
 - Building Python/Bash pipelines for single-agent and multi-agent evaluation.
 - Running Slurm/HPC workflows across open-source and closed-source models.
 
+### Co-Founder/Director of Tech. @ Artificial Intelligence Multidisciplinary Society (A.I.M), University of Massachusetts Lowell
+
+*April 2026 - Present*
+
+- Leading technical direction for interdisciplinary AI projects, student research, and digital infrastructure.
+- Building practical workflows, demos, and materials for applied AI learning.
+
 ### Applied AI Engineer @ Kennedy College of Sciences, University of Massachusetts Lowell
 
 *December 2025 - May 2026*
@@ -31,13 +38,6 @@ Check out my projects below ⬇️
 - Built a Copilot-powered chemistry tutoring system for course-aligned support.
 - Created OpenAI API preprocessing pipelines for RAG-ready department materials.
 - Added prompt guardrails and chunking rules to reduce leakage and hallucinations.
-
-### Co-Founder/Director of Tech. @ Artificial Intelligence Multidisciplinary Society (A.I.M), University of Massachusetts Lowell
-
-*April 2026 - Present*
-
-- Leading technical direction for interdisciplinary AI projects, student research, and digital infrastructure.
-- Building practical workflows, demos, and materials for applied AI learning.
 
 ### Coding Instructor @ CodeWiz
 
