@@ -12,7 +12,7 @@ I have a growing interest in AI infrastructure and tooling. My current work is c
 - 🧱 Full-stack software engineering
 - ⚙️ Infrastructure & scalable workflows
 
-Check out my projects below! ⬇️
+Check out my projects below ⬇️
 
 ## Experience 💼
 
