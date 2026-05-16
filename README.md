@@ -2,15 +2,13 @@
 
 <h2 style="margin-top: -100px;">About Me 🚀</h2>
 
-Computer Science & Data Science student at the University of Massachusetts Lowell experienced in building and deploying end-to-end software across web, data, backend, and ML systems, using C/C++, Python, and JavaScript. 
+Hi, I'm Harry, a junior at the University of Massachusetts Lowell, majoring in Computer Science with a concentration on Data Science and minor in Math.
+
+My interests include Healthcare AI, machine learning, full-stack software development, and building (and using) agentic infrastructure.
+
+My current research focuses on evaluating LLMs in the healthcare domain through multi-agent systems, alongside building retrieval-augmented AI workflows and tooling for academic applications.
 
 I have a growing interest in AI infrastructure and tooling. My current work is centered around healthcare LLM reliability, multi-agent evaluation, RAG-ready preprocessing,and practical AI systems built to make models more useful, reliable, and deployable in real-world settings.
-
-- 🩺 Healthcare AI
-- 🔎 RAG pipelines
-- 🤖 AI and ML systems
-- 🧱 Full-stack software engineering
-- ⚙️ Infrastructure & scalable workflows
 
 Check out my projects below ⬇️
 
