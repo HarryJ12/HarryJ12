@@ -71,6 +71,11 @@ Check out my projects below ⬇️
   <a href="https://linkedin.com/in/harryjoshi1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
   <a href="mailto:harrybjoshi@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" title="Email" /></a>
 </p>
+<p align="center">
+  <a href="https://linkedin.com/in/harryjoshi1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="mailto:harrybjoshi@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" title="Email" /></a>
+  <a href="https://harryjoshi.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" title="Portfolio" /></a>
+</p>
 
 ## Visitors 👀
 
