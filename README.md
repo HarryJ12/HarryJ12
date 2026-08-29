@@ -5,6 +5,7 @@
 Hi, I'm Harry, a junior at the University of Massachusetts Lowell, majoring in Computer Science with a concentration in Data Science and a minor in Math.
 
 My interests include machine learning, full-stack software development, and building (and using) agentic infrastructure. 
+
 My current research focuses on evaluating LLMs in the healthcare domain.
 
 Check out my projects below ⬇️
