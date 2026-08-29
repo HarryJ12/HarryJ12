@@ -2,11 +2,9 @@
 
 <h2 style="margin-top: -100px;">About Me 🚀</h2>
 
-Hi, I'm Harry, a junior at the University of Massachusetts Lowell, majoring in Computer Science with a concentration on Data Science and minor in Math.
+Hi, I'm Harry, a junior at the University of Massachusetts Lowell, majoring in Computer Science with a concentration in Data Science and a minor in Math.
 
-My interests include Healthcare AI, machine learning, full-stack software development, and building (and using) agentic infrastructure.
-
-My current research focuses on evaluating LLMs in the healthcare domain through multi-agent systems, alongside building retrieval-augmented AI workflows and tooling for academic applications.
+My interests include machine learning, full-stack software development, and building (and using) agentic infrastructure. My current research focuses on evaluating LLMs in the healthcare domain.
 
 Check out my projects below ⬇️
 
@@ -14,7 +12,10 @@ Check out my projects below ⬇️
 
 ### AI Engineering Intern @ MITRE
 
-*May 2026 - Present*
+*June 2026 - Present*
+- Built AI decision-support prototypes with synthetic data and iterative experimentation.
+- Developed Python tooling and a reusable runner API for launching and comparing simulations.
+- Stood up a Kubernetes dev environment, streamlined CLI workflows, and built front-end interfaces.
 
 ### Multi-Agent LLM Researcher @ University of Massachusetts BioNLP Laboratory
 
